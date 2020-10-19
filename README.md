@@ -42,7 +42,7 @@ describe a summary of your project and what it does.
     - HTML
     - CSS
     - Javascript
-    - Frameworks:
+    - Frameworks or Libraries:
         - React.js
 
 - **Backend:**
